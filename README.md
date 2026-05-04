@@ -16,6 +16,7 @@ Todos los archivos son de distribución libre (documentación oficial, licencias
 | Manual básico, iniciación a Python 3.pdf | Introducción a Python 3 | Libre |
 | Manual de Python.pdf | Manual de referencia de Python | Libre |
 | Introducción a GIT.pdf | Introducción al control de versiones con Git | Libre |
+| Linux Admin.pdf | Curso de introducción a la administración de sistemas Debian | Libre |
 | Pensar en Cpp - Vol1.pdf | "Thinking in C++" de Bruce Eckel — liberado por el autor | Libre |
 | Pro Git.pdf | "Pro Git" de Scott Chacon — distribuido en git-scm.com | CC BY-NC-SA |
 
